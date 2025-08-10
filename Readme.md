@@ -1,7 +1,7 @@
-university-cli/
-│
-├── main.py             # Entry point
-├── student_manager.py  # Logic for managing students
-├── requirements.txt    # Dependencies (none, but we keep for best practice)
-├── Dockerfile          # Docker build instructions
-└── .dockerignore       # Ignore unnecessary files
+university-cli
+
+v1.0
+print("University Management System!")
+
+v1.1
+print("Welcome to the University Management System!")
